@@ -1,6 +1,6 @@
 {
     "name": "mbgna/rest-client-php",
-    "version": "0.0.42",
+    "version": "0.0.16",
     "description": "Client SDK for CyberSource REST APIs",
     "keywords": [ ],
     "homepage": "https://github.com/CyberSource",
